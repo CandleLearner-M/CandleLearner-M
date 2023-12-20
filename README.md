@@ -13,7 +13,7 @@ Today, I stand on the precipice of translating my coding prowess into transforma
 From the glow of my computer screen, I extend a hand to fellow dreamers, creators, and innovators. With a heart full of passion and a lifetime of coding wisdom, I am here to not just build websites but to weave digital dreams into existence. Let's code not just for the present but for the legacy we leave behind—one meticulously crafted line at a time.
 
 * 🌍  I'm based in Tangier
-* ✉️  You can contact me at [CANDLELEARNER.M.DEV@GMAIL.COM](mailto:CANDLELEARNER.M.DEV@GMAIL.COM)
+* ✉️  You can contact me at [CANDLELEARNER.M.DEV@GMAIL.COM](mailto:CandleLearner.M.DEV@GMAIL.COM)
 * 🧠  I'm learning Everywhere, at any given moment...
 * 🤝  I'm open to collaborating on Projects
 * ⌨️​  Guess what? I'm a lightning on the keyboard, currently averaging at 90WPM. But shh, let's keep that between us until I hit the 120WPM mark.
