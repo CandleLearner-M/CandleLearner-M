@@ -16,7 +16,7 @@ From the glow of my computer screen, I extend a hand to fellow dreamers, creator
 * ✉️  You can contact me at [CANDLELEARNER.M.DEV@GMAIL.COM](mailto:CANDLELEARNER.M.DEV@GMAIL.COM)
 * 🧠  I'm learning Everywhere, at any given moment...
 * 🤝  I'm open to collaborating on Projects
-* ⚡  If these words grace your eyes, embrace the truth: you are exceptional.
+* ⚡  Guess what? I'm a lightning on the keyboard, currently averaging at 90WPM. But shh, let's keep that between us until I hit the 120WPM mark.
 
 ### Skills
 
