@@ -1,10 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mostafa
 ===============================================================================================================================
 
-Web developer & designer
+Web developer
 ------------------------
 
-In the mesmerizing realm of web development, I am more than a coder—I am a web sorcerer, passionately conjuring digital marvels one keystroke at a time. Beyond a skill, development is my lifeblood, a passion embedded in my DNA as I grew up surrounded by coding brilliance; my older brother and sister, both senior software engineers, laid the foundation of this captivating journey. I embarked on this odyssey at the tender age of 4, navigating the digital cosmos with an innate ability to wield technology. At 10, my fingers danced on the keyboard, orchestrating my first lines of code—a moment that ignited a flame that has only grown brighter with time. Today, I stand on the precipice of translating my coding prowess into transformative realities. Each line of code is a brushstroke, painting immersive online experiences that transcend the ordinary. My journey is not just about crafting websites; it's about translating visions into vibrant symphonies that resonate in the hearts of users. From the glow of my computer screen, I extend a hand to fellow dreamers, creators, and innovators. With a heart full of passion and a lifetime of coding wisdom, I am here to not just build websites but to weave digital dreams into existence. Let's code not just for the present but for the legacy we leave behind—one meticulously crafted line at a time.
+In the mesmerizing realm of web development, I am more than a coder—I am a web sorcerer, passionately conjuring digital marvels one keystroke at a time. Beyond a skill, development is my lifeblood, a passion embedded in my DNA as I grew up surrounded by coding brilliance; my older brother and sister, both senior software engineers, laid the foundation of this captivating journey.
+
+I embarked on this odyssey at the tender age of 4, navigating the digital cosmos with an innate ability to wield technology. At 10, my fingers danced on the keyboard, orchestrating my first lines of code—a moment that ignited a flame that has only grown brighter with time. 
+
+Today, I stand on the precipice of translating my coding prowess into transformative realities. Each line of code is a brushstroke, painting immersive online experiences that transcend the ordinary. My journey is not just about crafting websites; it's about translating visions into vibrant symphonies that resonate in the hearts of users. 
+
+From the glow of my computer screen, I extend a hand to fellow dreamers, creators, and innovators. With a heart full of passion and a lifetime of coding wisdom, I am here to not just build websites but to weave digital dreams into existence. Let's code not just for the present but for the legacy we leave behind—one meticulously crafted line at a time.
 
 * 🌍  I'm based in Tangier
 * ✉️  You can contact me at [CANDLELEARNER.M.DEV@GMAIL.COM](mailto:CANDLELEARNER.M.DEV@GMAIL.COM)
