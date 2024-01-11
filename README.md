@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 Web developer
-------------------------
+-----------------------
 
 In the mesmerizing realm of web development, I am more than a coder—I am a web sorcerer, passionately conjuring digital marvels one keystroke at a time. Beyond a skill, development is my lifeblood, a passion embedded in my DNA as I grew up surrounded by coding brilliance; my older brother and sister, both senior software engineers, laid the foundation of this captivating journey.
 
