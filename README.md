@@ -10,7 +10,7 @@ I embarked on this odyssey at the tender age of 4, navigating the digital cosmos
 
 Today, I stand on the precipice of translating my coding prowess into transformative realities. Each line of code is a brushstroke, painting immersive online experiences that transcend the ordinary. My journey is not just about crafting websites; it's about translating visions into vibrant symphonies that resonate in the hearts of users. 
 
-From the glow of my computer screen, I extend a hand to fellow dreamers, creators, and innovators. With a heart full of passion and a lifetime of coding wisdom, I am here to not just build websites but to weave digital dreams into existence. Let's code not just for the present but for the legacy we leave behind—one meticulously crafted line at a time.
+From the glow of my computer screen, I extend a hand to fellow dreamers, creators, and innovators. With a heart full of passion and a lifetime of coding wisdom, I am here to not just build websites but to weave digital dreams into existence. Let's code not just for the present but for the legacy we leave behind—one meticulously crafted line at a time .
 
 * 🌍  I'm based in Tangier
 * ✉️  You can contact me at [CANDLELEARNER.M.DEV@GMAIL.COM](mailto:CandleLearner.M.DEV@GMAIL.COM)
