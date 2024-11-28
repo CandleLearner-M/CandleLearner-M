@@ -1,104 +1,48 @@
-<div align="center">
-    <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-</div>
-
 <h1 align="center">
-    Hello, World! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> I'm Mostafa
+    Hi, I'm Mostafa
 </h1>
 
-<h3 align="center">🚀 Full Stack Web Developer | Digital Craftsman 🎨</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
+## About Me
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CandleLearner-M&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/CandleLearner-M?label=Followers&style=social" alt="followers"/>
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=flat&color=red&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CandleLearner-M" alt="Stars"/>
-</p>
+- 🌍 Based in Tangier, Morocco
+- 💼 Open to Freelance Projects and Collaboration
+- 🎯 Goal: Contribute to Open Source
+- 📚 Always Learning & Growing
 
-## 🧙‍♂️ About Me
+## Technologies
 
-> "Code is poetry written in logic"
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-1a1a1a?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-1a1a1a?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-1a1a1a?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1a1a1a?style=flat&logo=tailwindcss)
 
-In the mesmerizing realm of web development, I am more than a coder—I am a web sorcerer, passionately conjuring digital marvels one keystroke at a time. Beyond a skill, development is my lifeblood.
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-1a1a1a?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-1a1a1a?style=flat&logo=mysql)
 
-<table>
-  <tr>
-    <td>
-      
-- 🌍 Based in **Tangier, Morocco**
-- 💼 Open to **Freelance Projects** and **Collaboration**
-- 🎯 Goal: Contribute to **Open Source**
-- ⚡ Fun fact: **90 WPM** typing speed
-- 📚 Always **Learning & Growing**
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandleLearner-M&theme=radical&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+### Tools
+![Git](https://img.shields.io/badge/-Git-1a1a1a?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-1a1a1a?style=flat&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/-Docker-1a1a1a?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-1a1a1a?style=flat&logo=amazon-aws)
 
-## 💻 Tech Stack
+## GitHub Stats
 
-<details open>
-<summary>Frontend Development</summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass" />
-</p>
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=CandleLearner-M&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a" alt="GitHub Stats"/>
 
-<details>
-<summary>Backend Development</summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CandleLearner-M&theme=dark&hide_border=true&background=1a1a1a" alt="GitHub Streak"/>
 
-<details>
-<summary>Tools & Technologies</summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws" />
-</p>
-</details>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=CandleLearner-M&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-            </td>
-            <td>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=CandleLearner-M&theme=radical" alt="GitHub Streak"/>
-            </td>
-        </tr>
-    </table>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=CandleLearner-M&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CandleLearner-M&theme=radical&hide_border=true" width="100%"/>
-
-## 🎯 Current Focus
+## Current Focus
 
 ```javascript
 const currentFocus = {
-    learning: ["Advanced React Patterns", "System Design", "AWS"],
-    working: ["Full Stack Projects", "Open Source Contributions"],
-    goals: {
-        shortTerm: "Master TypeScript",
-        longTerm: "Become a Solution Architect"
-    }
+    learning: ["Advanced React", "System Design", "AWS"],
+    working: ["Full Stack Projects", "Open Source"],
+    goals: "Become a Solution Architect"
 };
