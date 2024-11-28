@@ -1,34 +1,59 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mostafa
-===============================================================================================================================
+<h1 align="center">
+    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> I'm Mostafa
+</h1>
 
-Web developer
------------------------
+<h3 align="center">Web Developer | Digital Craftsman</h3>
 
-In the mesmerizing realm of web development, I am more than a coder—I am a web sorcerer, passionately conjuring digital marvels one keystroke at a time. Beyond a skill, development is my lifeblood, a passion embedded in my DNA as I grew up surrounded by coding brilliance; my older brother and sister, both senior software engineers, laid the foundation of this captivating journey.
-
-I embarked on this odyssey at the tender age of 4, navigating the digital cosmos with an innate ability to wield technology. At 10, my fingers danced on the keyboard, orchestrating my first lines of code—a moment that ignited a flame that has only grown brighter with time. 
-
-Today, I stand on the precipice of translating my coding prowess into transformative realities. Each line of code is a brushstroke, painting immersive online experiences that transcend the ordinary. My journey is not just about crafting websites; it's about translating visions into vibrant symphonies that resonate in the hearts of users. 
-
-From the glow of my computer screen, I extend a hand to fellow dreamers, creators, and innovators. With a heart full of passion and a lifetime of coding wisdom, I am here to not just build websites but to weave digital dreams into existence. Let's code not just for the present but for the legacy we leave behind—one meticulously crafted line at a time .
-
-* 🌍  I'm based in Tangier
-* ✉️  You can contact me at [CANDLELEARNER.M.DEV@GMAIL.COM](mailto:CandleLearner.M.DEV@GMAIL.COM)
-* 🧠  I'm learning Everywhere, at any given moment...
-* 🤝  I'm open to collaborating on Projects
-* ⌨️​  Guess what? I'm a lightning on the keyboard, currently averaging at 90WPM. But shh, let's keep that between us until I hit the 120WPM mark.
-* ⚡  If these words grace your eyes, embrace the truth: you are exceptional.
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
+## 👨‍💻 About Me
 
+As a web developer, I transform ideas into digital reality. My journey began at age 4, exploring technology's vast potential, and by 10, I was already writing my first lines of code. Today, I create immersive web experiences that bridge imagination and functionality.
 
-### Socials
+- 🌍 Based in Tangier, Morocco
+- 💼 Open to freelance and collaboration opportunities
+- 📚 Continuous learner, always exploring new technologies
+- ⚡ Fun fact: I type at 90 WPM and aiming for 120 WPM!
 
+## 🛠️ Technologies & Tools
 
-<p align="left"> <a href="https://www.dev.to/candlelearner" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CandleLearner-M" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mostafa-el-issati-8a41892a3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/CandleLearner" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<details open>
+<summary>Frontend</summary>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+</details>
+
+<details>
+<summary>Backend</summary>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+</details>
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=CandleLearner-M&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CandleLearner-M&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🌐 Let's Connect
+
+<p align="center">
+    <a href="mailto:CANDLELEARNER.M.DEV@GMAIL.COM">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.dev.to/candlelearner">
+        <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    </a>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=CandleLearner-M&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
