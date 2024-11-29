@@ -4,16 +4,12 @@
 </div>
 <h1 align="center">
     Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> I'm Mostafa
-    Hello, World! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> I'm Mostafa
+    Hello, World!
 </h1>
 
 <h3 align="center">Web Developer | Digital Craftsman</h3>
 <h3 align="center">🚀 Full Stack Web Developer | Digital Craftsman 🎨</h3>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
 
 ## 👨‍💻 About Me
 <p align="center">
@@ -101,25 +97,7 @@ In the mesmerizing realm of web development, I am more than a coder—I am a web
 </p>
 
 ## 🌐 Let's Connect
-## 🏆 GitHub Trophies
 
-<p align="center">
-    <a href="mailto:CANDLELEARNER.M.DEV@GMAIL.COM">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.dev.to/candlelearner">
-        <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-    </a>
-    <img src="https://github-profile-trophy.vercel.app/?username=CandleLearner-M&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-## 📈 Contribution Graph
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CandleLearner-M&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CandleLearner-M&theme=radical&hide_border=true" width="100%"/>
 ## 🎯 Current Focus
 ```javascript
 const currentFocus = {
