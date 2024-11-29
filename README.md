@@ -7,7 +7,6 @@
     Hello, World!
 </h1>
 
-<h3 align="center">Web Developer | Digital Craftsman</h3>
 <h3 align="center">🚀 Full Stack Web Developer | Digital Craftsman 🎨</h3>
 
 
@@ -78,23 +77,7 @@ In the mesmerizing realm of web development, I am more than a coder—I am a web
 </p>
 </details>
 
-## 📊 GitHub Stats
-## 📊 GitHub Statistics
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CandleLearner-M&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CandleLearner-M&theme=radical" alt="GitHub Streak" />
-    <table align="center">
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=CandleLearner-M&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-            </td>
-            <td>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=CandleLearner-M&theme=radical" alt="GitHub Streak"/>
-            </td>
-        </tr>
-    </table>
-</p>
 
 ## 🌐 Let's Connect
 
