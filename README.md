@@ -1,93 +1,47 @@
+<!-- Replace "YourName" with your actual name or GitHub handle -->
 
-<div align="center">
-    <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+# Hi there, I'm YourName! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+Welcome to my profile! I'm a passionate Front-End Developer specializing in building dynamic, responsive user interfaces with:
+  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Sass](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+---
+
+## About Me
+- 💻 I create interactive and modern web applications with React and Next.js.  
+- ✨ I enjoy crafting polished styles with SCSS and designing intuitive UIs in Figma.  
+- 📚 Constant learner exploring new frameworks, libraries, and best practices.
+
+---
+
+## Projects & Highlights
+- [Project One](#) – A neat project showcasing some React features.
+- [Project Two](#) – Exploring Next.js server-side rendering and dynamic routes.
+- [Project Three](#) – Styling complexity handled with SCSS and Figma-based designs.
+
+---
+
+## Want to Connect?
+<div align="left">
+  <a href="https://www.linkedin.com/in/YourProfile/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YourEmail@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Add or remove icons as you prefer -->
 </div>
-<h1 align="center">
-    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> I'm Mostafa
-    Hello, World!
-</h1>
 
-<h3 align="center">🚀 Full Stack Web Developer | Digital Craftsman 🎨</h3>
-
-
-## 👨‍💻 About Me
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CandleLearner-M&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/CandleLearner-M?label=Followers&style=social" alt="followers"/>
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=flat&color=red&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CandleLearner-M" alt="Stars"/>
-</p>
-
-As a web developer, I transform ideas into digital reality. My journey began at age 4, exploring technology's vast potential, and by 10, I was already writing my first lines of code. Today, I create immersive web experiences that bridge imagination and functionality.
-## 🧙‍♂️ About Me
-
-- 🌍 Based in Tangier, Morocco
-- 💼 Open to freelance and collaboration opportunities
-- 📚 Continuous learner, always exploring new technologies
-- ⚡ Fun fact: I type at 90 WPM and aiming for 120 WPM!
-> "Code is poetry written in logic"
-## 🛠️ Technologies & Tools
-In the mesmerizing realm of web development, I am more than a coder—I am a web sorcerer, passionately conjuring digital marvels one keystroke at a time. Beyond a skill, development is my lifeblood.
-
-<details open>
-<summary>Frontend</summary>
-<table>
-  <tr>
-    <td>
-      
-- 🌍 Based in **Tangier, Morocco**
-- 💼 Open to **Freelance Projects** and **Collaboration**
-- 🎯 Goal: Contribute to **Open Source**
-- ⚡ Fun fact: **90 WPM** typing speed
-- 📚 Always **Learning & Growing**
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandleLearner-M&theme=radical&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-## 💻 Tech Stack
-<details open>
-<summary>Frontend Development</summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass" />
-</p>
-</details>
+---
 
 <details>
-<summary>Backend</summary>
-<summary>Backend Development</summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
+  <summary>GitHub Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true" alt="YourName's GitHub Stats" />
 </details>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-<details>
-<summary>Tools & Technologies</summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws" />
-</p>
-</details>
-
-
-
-## 🌐 Let's Connect
-
-## 🎯 Current Focus
-```javascript
-const currentFocus = {
-    learning: ["Advanced React Patterns", "System Design", "AWS"],
-    working: ["Full Stack Projects", "Open Source Contributions"],
-    goals: {
-        shortTerm: "Master TypeScript",
-        longTerm: "Become a Solution Architect"
-    }
-};
