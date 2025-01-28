@@ -22,7 +22,4 @@ I’m a Front-End Developer, transforming ideas into visually appealing, high-pe
 - 🎨 Figma enthusiast, focusing on aesthetic design and usability  
 - 🌱 Currently exploring advanced front-end optimizations and best practices  
 
----
 
-
-Feel free to reach out for collaborations, opportunities, or just to say hello!
