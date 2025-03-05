@@ -1,10 +1,7 @@
 # Hi there, I'm Mostafa 👋
 
----
 
 [![committers.top badge](https://user-badge.committers.top/morocco/CandleLearner-M.svg)](https://user-badge.committers.top/morocco/CandleLearner-M)
-
----
 
 Frontend developer crafting smooth, interactive web experiences with modern technologies.
 
