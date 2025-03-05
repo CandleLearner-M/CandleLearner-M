@@ -1,5 +1,11 @@
 # Hi there, I'm Mostafa 👋
 
+---
+
+[![committers.top badge](https://user-badge.committers.top/morocco/CandleLearner-M.svg)](https://user-badge.committers.top/morocco/CandleLearner-M)
+
+---
+
 Frontend developer crafting smooth, interactive web experiences with modern technologies.
 
 
@@ -49,11 +55,7 @@ I'm currently diving deeper into:
   </a>
 </p>
 
----
 
-[![committers.top badge](https://user-badge.committers.top/morocco/CandleLearner-M.svg)](https://user-badge.committers.top/morocco/CandleLearner-M)
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandleLearner-M&layout=compact&theme=tokyonight" alt="Most Used Languages" />
