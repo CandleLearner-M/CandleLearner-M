@@ -1,25 +1,58 @@
-<!-- A concise front-end oriented README snippet focusing on React, JS, Next.js, CSS, SCSS, and Figma: -->
-
 <div align="center">
-  <!-- Optional banner image (replace with your own or remove) -->
-  <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/CandleLearner-M/CandleLearner-M/main/assets/banner.png" alt="Banner" />
 </div>
 
-# Hello, I'm Mostafa!
+# Hi there, I'm Mostafa 👋
 
-I’m a Front-End Developer, transforming ideas into visually appealing, high-performance web experiences. My toolkit includes:
+Frontend developer crafting smooth, interactive web experiences with modern technologies.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,next,css,sass,figma" alt="Skills" />
-</p>
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  
+</div>
+
+## 💫 About Me
+
+I transform concepts into interactive digital experiences, focusing on modern frontend development. My passion lies in creating fluid, engaging user interfaces with attention to every animation detail.
+
+- 🚀 Building with **React** ecosystem daily
+- 📘 Leveraging **TypeScript** for type-safe code
+- 💅 Crafting beautiful interfaces with **CSS**
+- ✨ Adding life to UIs with **Framer Motion** animations
+
+## 🔥 My Tech Stack
+
+```jsx
+const techStack = {
+  framework: "React",
+  language: "TypeScript",
+  styling: ["CSS", "Styled Components"],
+  animation: "Framer Motion",
+  architecture: "Component-driven design",
+  passion: "Creating smooth user experiences"
+};
+```
+
+## 🎯 Current Focus
+
+I'm currently diving deeper into:
+
+- Advanced animation patterns with Framer Motion
+- Building accessible UI components
+- Performance optimization in React applications
+- TypeScript best practices
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/mostafa-el-issati-8a41892a3/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
 ---
 
-## About Me
-
-- ❤️ Passionate about building responsive UIs using React and Next.js  
-- 💡 Always seeking to refine my CSS/SCSS skills for delightful user experiences  
-- 🎨 Figma enthusiast, focusing on aesthetic design and usability  
-- 🌱 Currently exploring advanced front-end optimizations and best practices  
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandleLearner-M&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
