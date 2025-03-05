@@ -6,14 +6,16 @@
 
 Frontend developer crafting smooth, interactive web experiences with modern technologies.
 
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-  
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
+  <img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" width="50" height="50" alt="Framer Motion" />
+</p>
 
 ## 💫 About Me
 
@@ -48,8 +50,15 @@ I'm currently diving deeper into:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/mostafa-el-issati-8a41892a3/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-handle">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
