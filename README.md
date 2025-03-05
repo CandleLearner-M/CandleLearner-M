@@ -44,12 +44,8 @@ I'm currently diving deeper into:
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/mostafa-el-issati-8a41892a3/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter" />
   </a>
 </p>
 
