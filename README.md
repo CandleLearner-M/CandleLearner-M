@@ -7,7 +7,7 @@ Frontend developer crafting smooth, interactive web experiences with modern tech
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,css" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,css,motion" alt="Skills" />
   <img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" width="50" height="50" alt="Framer Motion" />
 
 </p>
